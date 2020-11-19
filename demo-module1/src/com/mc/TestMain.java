@@ -1,5 +1,7 @@
 package com.mc;
 
 public class TestMain {
-    //ceshi
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
